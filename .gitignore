@@ -1,0 +1,15 @@
+data/
+ENV/
+export/
+images/
+models/
+prediction/
+testing/
+.ipynb_checkpoints/
+
+config.py
+
+*.csv
+*.json
+*.pem
+*.tfrecord
